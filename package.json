@@ -1,0 +1,14 @@
+{
+  "name": "hue-retreat",
+  "version": "1.0.0",
+  "description": "A Hue scheduler for a meditation retreat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "changeling@climbup.me",
+  "license": "ISC",
+  "dependencies": {
+    "philips-hue": "^1.1.11"
+  }
+}
